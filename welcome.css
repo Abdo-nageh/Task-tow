@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0PX;
+}
+
+body {
+    background-color: rgb(124, 110, 121);
+}
+
+.welcome {
+    
+    width: 30%;
+    margin: 0PX auto;
+    margin-top: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.HI{
+width: 500px;
+margin-bottom: 20PX;
+background-color: rgb(24, 22, 22);
+color: rgb(219, 16, 26);
+font-size: 70px;
+letter-spacing: 5px;
+font-weight: bold
+}
+
+.Click{
+
+   margin-top: 30px;
+   margin-left: 50px;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size:70px ;
+    color: yellowgreen;
+ 
+
+}
+a:hover{
+    background-color: rgb(94, 44, 175);
+}
